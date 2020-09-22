@@ -173,3 +173,193 @@ ziggy.kml
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kni t
 Initialized empty Git repository in /Users/malishev/Documents/ecolab/maptrack/.git/
 ]0;~/Documents/ecolab/maptrack6300L-127771-M:maptrack malishev$ git add  .
+]0;~/Documents/ecolab/maptrack6300L-127771-M:maptrack malishev$ git com mit -m ''i'n'i't'
+[master (root-commit) fddfc50] init
+ 139 files changed, 154550 insertions(+)
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/ABE7B653/console06/E91F7FC4
+ create mode 100644 .Rproj.user/ABE7B653/console06/E91F7FC4.env
+ create mode 100644 .Rproj.user/ABE7B653/console06/INDEX001
+ create mode 100644 .Rproj.user/ABE7B653/pcs/debug-breakpoints.pper
+ create mode 100644 .Rproj.user/ABE7B653/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/ABE7B653/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/ABE7B653/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/ABE7B653/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/ABE7B653/rmd-outputs
+ create mode 100644 .Rproj.user/ABE7B653/saved_source_markers
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/150BB2D0
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/3CC004DC
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/4123DC39
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/4AEC0F4B
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/4F030377
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/66FE2E0B
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/66FF1902
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/67CB92B4
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/69451037
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/7EC64D91
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/869847F2
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/8D38680C
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/B1EC6795
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/C9A58180
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/CCA8864D
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/CEFCED60
+ create mode 100644 .Rproj.user/ABE7B653/sources/prop/INDEX
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/81F9C932
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/81F9C932-contents
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/862C64AC
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/862C64AC-contents
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/8EDB9292
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/8EDB9292-contents
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/91724885
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/91724885-contents
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/9DECAFF6
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/9DECAFF6-contents
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/A566CE36
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/A566CE36-contents
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/AA6E865
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/AA6E865-contents
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/D40DB2DD
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/D40DB2DD-contents
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/E558F99B
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/E558F99B-contents
+ create mode 100644 .Rproj.user/ABE7B653/sources/s-CDD9FAB8/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 Untitled.R
+ create mode 100644 _font_lib.png
+ create mode 100644 col_templates/#021019_#08304B_#08304B_#0D4F63.jpeg
+ create mode 100644 col_templates/#17242E_#FFFFFF_#A8AE9C_#F90F40.jpeg
+ create mode 100644 col_templates/#3BCDD5_#FFFFFF_#291C9C_#291C9C.jpeg
+ create mode 100644 col_templates/#9EBBE7_#EFEFEF_#96ABC6_#F80F61.jpeg
+ create mode 100644 col_templates/#AAD3D2_#f2e6d8_#9acaac_#001785.jpeg
+ create mode 100644 col_templates/#CF673B_#FFFFFF_#FFB49A_#F4D29F.jpeg
+ create mode 100644 col_templates/#ECEBEB_#FFFFFF_#FFE3CE_#FFB49A.jpeg
+ create mode 100644 col_templates/#F4D29F_#FFFFFF_#FFB49A_#CF673B.jpeg
+ create mode 100644 col_templates/#f2f0ee_#10163c_#c7d2f5_#f4d29f.jpeg
+ create mode 100644 eu.csv
+ create mode 100644 eu.kml
+ create mode 100644 font_lib.png
+ create mode 100644 funcs/add_font_func.R
+ create mode 100644 funcs/col_pal_view.R
+ create mode 100644 funcs/page_dims.Rda
+ create mode 100644 funcs/page_print_dims.R
+ create mode 100644 funcs/page_print_func.R
+ create mode 100644 funcs/title_xy.R
+ create mode 100644 funcs/user_read_func.R
+ create mode 100644 japan_matt_letter.pdf
+ create mode 100644 japan_matt_special_a4.pdf
+ create mode 100644 july/grom/9_15.png
+ create mode 100644 july/grom/spain.csv
+ create mode 100644 july/grom/spain.kml
+ create mode 100644 july/grom/spain_grom.pdf
+ create mode 100644 july/grom/spain_grom_12_3.5_31_42.5.png
+ create mode 100644 july/grom/spain_grom_12_3.5_31_42.6.png
+ create mode 100644 july/grom/spain_grom_12_3.5_31_42.png
+ create mode 100644 july/grom/spain_grom_12_3.7_31_42.png
+ create mode 100644 july/grom/spain_grom_12_4.png
+ create mode 100644 july/grom/spain_grom_12_4_30_42.png
+ create mode 100644 july/grom/spain_grom_12_4_30_44.png
+ create mode 100644 july/grom/spain_grom_12_4_31_42.5.png
+ create mode 100644 july/grom/spain_grom_12_4_31_42.5__8_15in.png
+ create mode 100644 july/grom/spain_grom_12_4_31_42.png
+ create mode 100644 july/grom/spain_grom_12_7.png
+ create mode 100644 july/grom/spain_grom_labels_to_nudge.png
+ create mode 100644 july/route66/route66.csv
+ create mode 100644 july/route66/route66.kml
+ create mode 100644 july/route66/route66.txt
+ create mode 100644 july/route66/route66_a2_l.pdf
+ create mode 100644 july/route66/route66_a3_l.pdf
+ create mode 100644 july/route66/route66_route66_labels_to_nudge.png
+ create mode 100644 maptrack.Rproj
+ create mode 100644 nz.csv
+ create mode 100644 nz.kml
+ create mode 100644 nz_roadtripper_a4_p.pdf
+ create mode 100644 template_basic.R
+ create mode 100644 template_minimal.R
+ create mode 100644 templates/beer/beer.csv
+ create mode 100644 templates/beer/beer.kml
+ create mode 100644 templates/beer/beer.pdf
+ create mode 100644 templates/beer/beer.pptx
+ create mode 100644 templates/beer/beer.txt
+ create mode 100644 templates/beer/beer_a2_p.pdf
+ create mode 100644 templates/beer/beer_beer.pdf
+ create mode 100644 templates/beer/beer_beer_labels_to_nudge.png
+ create mode 100644 templates/japan/japan.csv
+ create mode 100644 templates/japan/japan.kml
+ create mode 100644 templates/japan/japan.txt
+ create mode 100644 templates/japan/japan_japan.pdf
+ create mode 100644 templates/japan/japan_japan.png
+ create mode 100644 templates/japan/japan_japan_labels_to_nudge.png
+ create mode 100644 templates/japan/japan_legal_l.pdf
+ create mode 100644 templates/japan/japan_letter_l.pdf
+ create mode 100644 templates/mim/mim.Rda
+ create mode 100644 templates/mim/mim.csv
+ create mode 100644 templates/mim/mim.kml
+ create mode 100644 templates/mim/mim.txt
+ create mode 100644 templates/mim/mim_a3_l.pdf
+ create mode 100644 templates/mim/mim_mim.pdf
+ create mode 100644 templates/mim/mim_mim_labels_to_nudge.png
+ create mode 100644 templates/motorcycle/.Rda
+ create mode 100644 templates/motorcycle/a3.pdf
+ create mode 100644 templates/motorcycle/motorcycle.Rda
+ create mode 100644 templates/motorcycle/motorcycle.csv
+ create mode 100644 templates/motorcycle/motorcycle.kml
+ create mode 100644 templates/motorcycle/motorcycle.pdf
+ create mode 100644 templates/motorcycle/motorcycle.txt
+ create mode 100644 templates/motorcycle/motorcycle_a2_l.pdf
+ create mode 100644 templates/motorcycle/motorcycle_a3_l.pdf
+ create mode 100644 templates/motorcycle/motorcycle_a4_l.pdf
+ create mode 100644 templates/motorcycle/motorcycle_motorcycle_labels_to_nudge.png
+ create mode 100644 templates/motorcycle/motorcycle_preview_ver.pdf
+ create mode 100644 usa.csv
+ create mode 100644 usa_test.kml
+ create mode 100644 user_input.txt
+ create mode 100644 ziggy.kml
+]0;~/Documents/ecolab/maptrack6300L-127771-M:maptrack malishev$ git rem oad [K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm ote add origin [K[K[K[K[K[K[Kurl open _git[K[K[K[K.git/[Kig[K[K[K[K[K[K[K[K[K[K[Ktouch .gitignore
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+]0;~/Documents/ecolab/maptrack6300L-127771-M:maptrack malishev$ git remoote add url touch .gitignore[A[C[C[C[C[C[C[C[C[C[Ccomm[15Pit -m 'init'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add url touch .gitignore[A[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch . [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[Kopen .g it/[Kig[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[Kls -a
+.
+..
+.DS_Store
+.Rhistory
+.Rproj.user
+.git
+Untitled.R
+_font_lib.png
+august
+col_templates
+eu.csv
+eu.kml
+font_lib.png
+funcs
+japan_matt_letter.pdf
+japan_matt_special_a4.pdf
+july
+maptrack.Rproj
+nz.csv
+nz.kml
+nz_roadtripper_a4_p.pdf
+template_basic.R
+template_minimal.R
+templates
+usa.csv
+usa_test.kml
+user_input.txt
+ziggy.kml
+]0;~/Documents/ecolab/maptrack6300L-127771-M:maptrack malishev$ touch . gitignore
+]0;~/Documents/ecolab/maptrack6300L-127771-M:maptrack malishev$ open .g itignore 
+]0;~/Documents/ecolab/maptrack6300L-127771-M:maptrack malishev$ git add  .
