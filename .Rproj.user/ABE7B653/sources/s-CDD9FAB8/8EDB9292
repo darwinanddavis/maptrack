@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595937046469.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8EDB9292",
+    "lastKnownWriteTime" : 1599466647,
+    "last_content_update" : 1599466647444,
+    "path" : "~/Documents/ecolab/maptrack/funcs/page_print_dims.R",
+    "project_path" : "funcs/page_print_dims.R",
+    "properties" : {
+        "cursorPosition" : "10,16",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

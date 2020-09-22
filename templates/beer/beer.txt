@@ -1,0 +1,16 @@
+beer
+beer
+los angeles, san francisco, portland, seattle, vancouver
+USA, Canada
+21
+29.7
+p
+a4
+42
+59.4
+p
+a2
+42
+59.4
+p
+a2

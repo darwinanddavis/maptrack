@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595225092521.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "91724885",
+    "lastKnownWriteTime" : 1599459433,
+    "last_content_update" : 1599459433670,
+    "path" : "~/Documents/ecolab/maptrack/funcs/col_pal_view.R",
+    "project_path" : "funcs/col_pal_view.R",
+    "properties" : {
+        "cursorPosition" : "45,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

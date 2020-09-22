@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597208706405.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A566CE36",
+    "lastKnownWriteTime" : 1598255856,
+    "last_content_update" : 1598255856592,
+    "path" : "~/Documents/ecolab/maptrack/funcs/title_xy.R",
+    "project_path" : "funcs/title_xy.R",
+    "properties" : {
+        "cursorPosition" : "2,42",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595225103089.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA6E865",
+    "lastKnownWriteTime" : 1600702689,
+    "last_content_update" : 1600702689578,
+    "path" : "~/Documents/ecolab/maptrack/funcs/user_read_func.R",
+    "project_path" : "funcs/user_read_func.R",
+    "properties" : {
+        "cursorPosition" : "69,0",
+        "scrollLine" : "53"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592969731420.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "81F9C932",
+    "lastKnownWriteTime" : 1595222921,
+    "last_content_update" : 1595222921877,
+    "path" : "~/Documents/ecolab/maptrack/template_basic.R",
+    "project_path" : "template_basic.R",
+    "properties" : {
+        "cursorPosition" : "206,19",
+        "scrollLine" : "194",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
